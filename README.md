@@ -1,6 +1,8 @@
 # CUCM-Integration-with-WebDialer
 This project was developed for a Smart city project in India. The Incident management portal can be used by incident managers to call a specific incident team on a click of a button instead of dialing out a number which would consume time and effort. This project intends to make the incident response quicker and agile.
 
+The Dashboard has three different buttons which dials out to different number with respect to the incident. It also has a counter to keep a track on how many successful call were made.
+
 ***
 #### Author(s):
 
