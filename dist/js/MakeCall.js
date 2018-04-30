@@ -26,7 +26,7 @@ function endCall(){
             var xmlhttp = new XMLHttpRequest();
 
             //Open request with SOAP URL
-            xmlhttp.open('POST', 'https://cucm1.dcloud.cisco.com:8443/webdialer/services/WebdialerSoapService70?wsdl', true);
+            xmlhttp.open('POST', 'https://Your-CUCM-address/webdialer/services/WebdialerSoapService70?wsdl', true);
             
             //SOAP request
             var strRequest =
@@ -50,7 +50,7 @@ function endCall(){
 
             //Request headers
             xmlhttp.setRequestHeader('Content-Type', 'text/xml; charset=utf-8');
-            xmlhttp.setRequestHeader('SOAPAction', '"https://cucm1.dcloud.cisco.com:8443/webdialer/services/WebdialerSoapService70"');
+            xmlhttp.setRequestHeader('SOAPAction', '"https://Your-CUCM-address/webdialer/services/WebdialerSoapService70"');
 
             //send the SOAP request
             xmlhttp.send(strRequest);
