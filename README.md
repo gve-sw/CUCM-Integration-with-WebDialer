@@ -18,7 +18,7 @@ Date: March/April 2018
 * [Cisco WebDialer](https://developer.cisco.com/site/webdialer/develop-and-test/documentation/developer-guide/)
 
 ### API Documentation
-* [Cisco Spark APIs Documentation](https://developer.webex.com/)
+* [Cisco WebDialer APIs Documentation](https://developer.cisco.com/site/webdialer/develop-and-test/documentation/developer-guide/
 
 #### Other References:
 <https://developer.cisco.com/site/webdialer/webdialer/><br>
