@@ -14,11 +14,8 @@ The Dashboard has three different buttons which dials out to different number wi
 Date: March/April 2018
 
 
-#### API Reference:
+#### API Reference/Documentation:
 * [Cisco WebDialer](https://developer.cisco.com/site/webdialer/develop-and-test/documentation/developer-guide/)
-
-### API Documentation
-* [Cisco WebDialer APIs Documentation](https://developer.cisco.com/site/webdialer/develop-and-test/documentation/developer-guide/
 
 #### Other References:
 <https://developer.cisco.com/site/webdialer/webdialer/><br>
