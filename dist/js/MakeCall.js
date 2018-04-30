@@ -70,7 +70,7 @@ function makeCall(e) {
             var xmlhttp = new XMLHttpRequest();
 
             //Open request with SOAP URL
-            xmlhttp.open('POST', 'https://cucm1.dcloud.cisco.com:8443/webdialer/services/WebdialerSoapService70?wsdl', true);
+            xmlhttp.open('POST', 'https://Your-CUCM-address/webdialer/services/WebdialerSoapService70?wsdl', true);
             
             //SOAP request
             var strRequest =
@@ -95,7 +95,7 @@ function makeCall(e) {
 
             //Request headers
             xmlhttp.setRequestHeader('Content-Type', 'text/xml; charset=utf-8');
-            xmlhttp.setRequestHeader('SOAPAction', '"https://cucm1.dcloud.cisco.com:8443/webdialer/services/WebdialerSoapService70"');
+            xmlhttp.setRequestHeader('SOAPAction', '"https://Your-CUCM-address/webdialer/services/WebdialerSoapService70"');
 
             //display results in console once the response is received
             xmlhttp.onreadystatechange = function () {
