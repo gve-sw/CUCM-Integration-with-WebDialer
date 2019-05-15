@@ -27,6 +27,13 @@ Cisco Unified Communications Manager<br>
 WebDialer<br>
 CORS plugin<br>
 
+
+#### Steps to Reproduce
+* Download/clone entire repository
+* Make sure you have valid CUCM IP address, user ID, device number and line number
+* Make the necessary changes in the MakeCall.js inside the /dist/js
+* Run the code on your favourite code editor / open index.html in your web browser.
+
 #### DISCLAIMER:
 <b>Please note:</b> This script is meant for educational purposes only. All tools/ scripts in this repo are released for use "AS IS" without any warranties of any kind, including, but not limited to their installation, use, or performance. Any use of these scripts and tools is at your own risk. There is no guarantee that they have been through thorough testing in a comparable environment and we are not responsible for any damage or data loss incurred with their use.
 You are responsible for reviewing and testing any scripts you run thoroughly before use in any non-testing environment.
